@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi! 👋 I'm Stéphane 👨‍💻
+
+I'm an open-source software engineer. I'm passionate about languages, parsers and formats. I'm currently working on continuously bring joy to mobile developers: [Xamarin.Forms](https://github.com/xamarin/Xamarin.Forms).
+
 
 <!--
 **StephaneDelcroix/StephaneDelcroix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
